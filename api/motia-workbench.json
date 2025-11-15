@@ -1,0 +1,32 @@
+[
+  {
+    "id": "hello-world-flow",
+    "config": {
+      "steps/hello/process-greeting.step.ts": {
+        "x": 451,
+        "y": -24
+      },
+      "steps/hello/hello-api.step.ts": {
+        "x": -37,
+        "y": -68
+      }
+    }
+  },
+  {
+    "id": "gallery-flow",
+    "config": {
+      "steps/title/title-api.step.ts": {
+        "x": 38,
+        "y": 0
+      },
+      "steps/images/images-api.step.ts": {
+        "x": 0,
+        "y": 204
+      },
+      "steps/images/get-image.step.ts": {
+        "x": 49,
+        "y": 408
+      }
+    }
+  }
+]

@@ -1,0 +1,1 @@
+<h1 id="title">{{#request src="http://localhost:3000/title"}}{{/request}}</h1>

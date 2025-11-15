@@ -1,0 +1,6 @@
+node_modules
+venv
+.motia
+.mermaid
+dist
+package-lock.json
